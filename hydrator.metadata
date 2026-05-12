@@ -1,8 +1,8 @@
 {
   "repoURL": "file:///home/ogondza/code/argo/hydrator-test",
-  "drySha": "0cf3655c8d1cdf9221509d8ee91660e5f16dfdba",
+  "drySha": "81c916740722524eb272c50609bd6d0b76616e6c",
   "author": "Oliver Gondža <ogondza@gmail.com>",
-  "date": "2026-05-12T12:31:35+02:00",
-  "subject": "2026-05-12 12:31:35",
+  "date": "2026-05-12T12:55:19+02:00",
+  "subject": "2026-05-12 12:55:19",
   "body": "Signed-off-by: Oliver Gondža <ogondza@gmail.com>\n"
 }
